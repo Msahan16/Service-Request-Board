@@ -10,7 +10,7 @@ npm install
 2. Create `.env` file with:
 ```
 PORT=5000
-MONGO_URI=mongodb+srv://Sahan:Sahan%4012345@cluster0.hbzyi8n.mongodb.net/service-board
+MONGO_URI=
 NODE_ENV=development
 ```
 
