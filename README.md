@@ -117,7 +117,7 @@ Frontend runs on `http://localhost:3000`
 ### Backend (.env)
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://Sahan:Sahan%4012345@cluster0.hbzyi8n.mongodb.net/service-board
+MONGO_URI=
 NODE_ENV=development
 ```
 
@@ -326,5 +326,6 @@ N/A - Technical Assessment
 ---
 
 **Created for GlobalTNA Full-Stack Developer Intern Assessment**
-#   S e r v i c e - R e q u e s t - B o a r d  
+#   S e r v i c e - R e q u e s t - B o a r d 
+ 
  
